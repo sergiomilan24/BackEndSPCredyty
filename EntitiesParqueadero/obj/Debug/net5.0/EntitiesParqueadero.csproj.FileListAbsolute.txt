@@ -1,0 +1,11 @@
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\bin\Debug\net5.0\EntitiesParqueadero.deps.json
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\bin\Debug\net5.0\EntitiesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\bin\Debug\net5.0\ref\EntitiesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\bin\Debug\net5.0\EntitiesParqueadero.pdb
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\EntitiesParqueadero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\EntitiesParqueadero.AssemblyInfoInputs.cache
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\EntitiesParqueadero.AssemblyInfo.cs
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\EntitiesParqueadero.csproj.CoreCompileInputs.cache
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\EntitiesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\ref\EntitiesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\obj\Debug\net5.0\EntitiesParqueadero.pdb

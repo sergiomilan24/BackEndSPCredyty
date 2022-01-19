@@ -1,0 +1,15 @@
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\bin\Debug\net5.0\BussinesParqueadero.deps.json
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\bin\Debug\net5.0\BussinesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\bin\Debug\net5.0\ref\BussinesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\bin\Debug\net5.0\BussinesParqueadero.pdb
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\bin\Debug\net5.0\EntitiesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\bin\Debug\net5.0\EntitiesParqueadero.pdb
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.csproj.AssemblyReference.cache
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.AssemblyInfoInputs.cache
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.AssemblyInfo.cs
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.csproj.CoreCompileInputs.cache
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.csproj.CopyComplete
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\ref\BussinesParqueadero.dll
+D:\Cursos\Proyectos\BackEndParqueaderoCredyty\BussinesParqueadero\obj\Debug\net5.0\BussinesParqueadero.pdb

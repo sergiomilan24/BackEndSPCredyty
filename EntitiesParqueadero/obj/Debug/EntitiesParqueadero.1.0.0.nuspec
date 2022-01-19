@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EntitiesParqueadero</id>
+    <version>1.0.0</version>
+    <authors>EntitiesParqueadero</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.13" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Cursos\Proyectos\BackEndParqueaderoCredyty\EntitiesParqueadero\bin\Debug\net5.0\EntitiesParqueadero.dll" target="lib\net5.0\EntitiesParqueadero.dll" />
+  </files>
+</package>
